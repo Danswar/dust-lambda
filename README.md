@@ -9,6 +9,7 @@
 ```
 APP_KEY
 APP_SECRET
+```
 
 
 ## Available scripts
