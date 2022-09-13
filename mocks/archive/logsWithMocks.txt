@@ -1,0 +1,43 @@
+2022-09-13T22:08:53.907Z	a925d70d-66c4-4783-aff9-5238f07a8acb	INFO	[
+  {
+    asset: 'BUSD',
+    assetFullName: 'BUSD',
+    amountFree: '1.15065',
+    toBTC: '0.00005718',
+    toBNB: '0.00414349',
+    toBNBOffExchange: '0.00406062',
+    exchange: '0.00008287'
+  },
+  {
+    asset: 'USDT',
+    assetFullName: 'USDT',
+    amountFree: '0.27397',
+    toBTC: '0.00001361',
+    toBNB: '0.00098692',
+    toBNBOffExchange: '0.00096718',
+    exchange: '0.00001974'
+  }
+]
+
+2022-09-13T22:08:54.410Z	a925d70d-66c4-4783-aff9-5238f07a8acb	INFO	{
+  totalTransfered: '0.0051304',
+  totalServiceCharge: '0.0001026',
+  transferResult: [
+    {
+      tranId: 116893110981,
+      fromAsset: 'USDT',
+      amount: '0.27397',
+      transferedAmount: '0.00098663',
+      serviceChargeAmount: '0.00001973',
+      operateTime: 1663106934275
+    },
+    {
+      tranId: 116893110981,
+      fromAsset: 'BUSD',
+      amount: '1.15065',
+      transferedAmount: '0.00414377',
+      serviceChargeAmount: '0.00008287',
+      operateTime: 1663106934271
+    }
+  ]
+}
